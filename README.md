@@ -31,10 +31,7 @@ cd ../server
 npm i
 ```
 
-```sh
-cd ../
-npm i -g concurrently
-```
+
 
 ## Setup DB
 - Create a mongodb database named `hostel`
@@ -46,6 +43,13 @@ npm i -g concurrently
 ```sh
 npm run dev
 ```
+
+
+```sh
+node server.js
+```
+
+
 
 ## Login Details
 - AdminLogin
