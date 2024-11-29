@@ -19,7 +19,7 @@ It is a MERN stack application built for ease of hostel management.
     - Making suggestions
      
 ## Deployed Version:
-[https://hostel-mern-frontend-6qak.onrender.com/](url)
+https://hostel-mern-frontend-6qak.onrender.com/
 
 ## Installation
 Install [Node.js](https://nodejs.org/en/download) and [MongoDB](https://www.mongodb.com/try/download/community) on your system.
