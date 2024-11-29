@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "645aae56db7005c0dc64fd92"
+  },
+  "name": "Vinaya Block-2, Sastra Deemed University",
+  "location": "https://maps.app.goo.gl/qb1Lv8bFkjpvqmNt9",
+  "rooms": 350,
+  "capacity": 700,
+  "vacant": 350
+}]
