@@ -21,7 +21,12 @@ function TeamCard({ member }) {
       <div className="text-center">
         <h3 className="text-xl font-medium text-white mb-2">{member.name}</h3>
         <div className="text-gray-400 text-sm mb-4">{member.designation}</div>
-        <a className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded cursor-pointer">
+        <a
+          href="https://nikith-pinni-portfolio.netlify.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded cursor-pointer"
+        >
           View Profile
         </a>
       </div>
