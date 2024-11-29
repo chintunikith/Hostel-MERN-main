@@ -34,7 +34,7 @@ npm i
 
 
 ## Setup DB
-- Create a mongodb database named `hostel`
+- Create a mongodb database named `hostel_2`
 - Create collections and given names like for `hostel.users.json` --> `users` in mongoCollections
 - Add data by importing file like `hostel.users.json`
 
